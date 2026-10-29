@@ -1,6 +1,6 @@
 # ENSIR Child Safety Standards
 
-**Last updated: September 9, 2026**
+**Last updated: October 29, 2026**
 
 ENSIR is committed to protecting users from child sexual abuse and exploitation (CSAE).
 
@@ -26,7 +26,7 @@ Users can report suspected abuse, exploitation, inappropriate conduct, or safety
 
 Safety concerns may also be reported by email:
 
-**[usta.mahmutcaner@gmail.com](mailto:usta.mahmutcaner@gmail.com)**
+**[ensir.support@gmail.com](mailto:ensir.support@gmail.com)**
 
 Reports are reviewed and appropriate action is taken when necessary.
 
@@ -38,4 +38,4 @@ ENSIR complies with applicable child-safety laws and cooperates with law-enforce
 
 For questions or reports concerning child safety:
 
-**[usta.mahmutcaner@gmail.com](mailto:usta.mahmutcaner@gmail.com)**
+**[ensir.support@gmail.com](mailto:ensir.support@gmail.com)**
